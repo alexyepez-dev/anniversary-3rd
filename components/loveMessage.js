@@ -7,7 +7,7 @@ export function createLoveMessage() {
     <p class="font-bold text-purple-600">De mi para ti</p>
     <p>Cada día a tu lado es un regalo. No solo me enamoras con tu sonrisa, sino con tu forma de vernos, con la ternura que llevas en el alma y la paz que traes a mi vida.
     A tu lado, aprendí que el amor no se trata de grandes gestos, sino de los pequeños momentos: una mirada que dice todo, un silencio compartido, una mano que te sostiene sin soltar.
-    Tú eres mi lugar seguro, mi inspiración constante, la persona con la que quiero construir todos mis días. <strong>Feliz aniversario mi amor</strong> 💜</p>
+    Tú eres mi lugar seguro, mi inspiración constante, la persona con la que quiero construir todos mis días.<br/> <strong>Feliz aniversario mi amor</strong> 💜</p>
   `;
 
   // Activar animación después de insertarlo
